@@ -1,2 +1,2 @@
 # udemy-finance-and-trading-algorithms
-Used for Udemy course
+Personal use for Udemy course
